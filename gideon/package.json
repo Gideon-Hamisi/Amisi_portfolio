@@ -6,7 +6,7 @@
   "author": "DevCRUD",
   "scripts": {
     "start": "gulp",
-    "vercel-build": "react-scripts build"
+    "vercel-build": "gulp"
   },
   "devDependencies": {
     "browser-sync": "^3.0.3",
